@@ -1,0 +1,5 @@
+dependencies 프로젝트 구동을 위해 필요
+
+devDependencies 개발자가 필요로 하는 도구
+
+mixin : 똑똑한 partial 이다....
